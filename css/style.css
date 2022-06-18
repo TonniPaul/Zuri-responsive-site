@@ -32,8 +32,8 @@ small{
 }
 .btn{
    background-color:#37CC8A ;
-   width: 95%;
-   padding:1.5em 1em;
+   width: 90%;
+   padding:1em;
    text-align: center;
 }
 .formhead{
@@ -63,6 +63,7 @@ small{
 .terms{
    color: red;
    font-weight: 900;
+   text-decoration: none;
 }
 @media(min-width: 1000px){
    body{
@@ -108,7 +109,6 @@ small{
       padding: 0%
    }
    form{
-      padding: ;
       width: 90%;
       margin:auto;
    }
